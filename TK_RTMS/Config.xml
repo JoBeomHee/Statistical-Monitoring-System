@@ -1,0 +1,14 @@
+﻿<Configuration>
+
+  <DATABASE>
+    <D_ADDR01>127.0.0.1</D_ADDR01>
+    <D_ADDR02>127.0.0.1</D_ADDR02>
+    <R_ADDR01>10.128.202.140</R_ADDR01>
+    <R_ADDR02>10.128.202.140</R_ADDR02>
+    <PORT>1521</PORT>
+    <USER>win</USER>
+    <PWD>dnlsvh</PWD>
+    <SERVICE_NAME>TKEK_PRD</SERVICE_NAME>
+  </DATABASE>
+
+</Configuration>
